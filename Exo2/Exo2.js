@@ -1,4 +1,3 @@
-alert("HelloWorld")
 var MavariableString="toto";
 var MavariableNumerique=100;
 var MavariableTableau=['Apple','Banana'];
